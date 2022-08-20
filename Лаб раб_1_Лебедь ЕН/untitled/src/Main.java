@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Привет!");
+        System.out.println("Привет! Это программа для сложения трёх чисел.");
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Введи первое число и нажми ENTER");
